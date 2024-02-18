@@ -152,8 +152,8 @@
     new Typed('.typed', {
       strings: typed_strings,
       loop: true,
-      typeSpeed: 99,
-      backSpeed: 49,
+      typeSpeed: 100,
+      backSpeed: 50,
       backDelay: 2000
     });
   }
